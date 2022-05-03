@@ -1,0 +1,4 @@
+!NAME - DESCRIPTION - LINK - TYPE - SUBTYPE - DATE - ORDER;
+A* Algorithm|Show the coolness of the process in the A* algorithm in a quick and simple way||Step by Step|Algorithm|5/3/2022|1;
+Boids|Learn a simple AI technique and look at simple visualizations in the process||Step by Step|Visualization|2;
+
